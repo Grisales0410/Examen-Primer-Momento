@@ -1,7 +1,11 @@
-# Examen-Primer-Momento
-Integrantes: Julieta Grisales Calle
+# Proyecto Taller - Nuevas Tecnologías
 
-@Grisales0410
-## Descripción del Proyecto
----
-- En este primer momento estaremos evaluando los conocimientos adquiridos en las clases anteriores sobre Python y GitHub.
+## Integrantes
+- Usuario GitHub: @Grisales0410
+
+## Descripción
+Proyecto en Python que carga datos de compras, valida información, calcula estadísticas y genera un reporte en formato JSON.
+
+## Instrucciones de ejecución
+```bash
+python src/main.py
