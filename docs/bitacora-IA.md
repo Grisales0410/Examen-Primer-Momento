@@ -24,4 +24,4 @@ Descarté:
 - Ajusté rutas y nombres de archivos para coincidir con la estructura de mi repositorio.
 - Reemplacé mensajes impresos por advertencias personalizadas.
 - Adapté la lógica de validación de datos para que sea más estricta según el enunciado.
-- Error en main.py con las nombres: __name__ y __main__
+- Error en main.py con las nombres: _name_ y _main_
