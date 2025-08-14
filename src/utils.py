@@ -1,1 +1,1 @@
-print("Forzar conflicto")
+print("Forzar conflicto desde el otro lado")
